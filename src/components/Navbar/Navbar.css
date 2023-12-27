@@ -4,11 +4,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #044F5D;
+    background-color: #092327;
   }
 
   #navbar h1 {
     color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    font-size: 45px;
   }
   
   #navbar .brand {
@@ -38,11 +41,11 @@
     color: white;
     margin: 0 10px; 
     padding: 0 15px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   #navbar ul li a:hover{
-    background-color: #03333C;
+    background-color: #154D56;
     cursor: pointer ;
   }
   

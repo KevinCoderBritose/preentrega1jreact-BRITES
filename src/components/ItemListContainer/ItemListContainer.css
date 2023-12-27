@@ -1,0 +1,7 @@
+.item-list-container {
+    padding: 0 15px;
+  }
+  
+  .item-list-container .saludo {
+    font-size: 20px;
+  }
